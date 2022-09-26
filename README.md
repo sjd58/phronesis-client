@@ -1,6 +1,14 @@
 # PhronesisClient
 
+The purpose of this project is to create the front end of an application that allows users to learn about the virutes, keep track of how they practice practical wisdom, and helps users live more virtuous lives.
+
+Built by Gregory Strom and Samuel Dickson
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.0.0.
+
+## Development Log
+
+9/26/2022: Application deployed and initial commit.
 
 ## Development server
 
