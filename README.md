@@ -8,6 +8,11 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 ## Development Log
 
+10/5/2022:
+* Import HttpClientModule into /src/app/app.module.ts
+* Create fetch-api-data.service.ts file
+* Create preliminary routes for HTTP requests
+
 9/26/2022: Application deployed and initial commit.
 
 ## Development server
